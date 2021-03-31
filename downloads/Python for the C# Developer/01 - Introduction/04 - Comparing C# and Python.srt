@@ -1,0 +1,260 @@
+1
+00:00:00,05 --> 00:00:01,06
+- [Instructor] If you're already
+
+2
+00:00:01,06 --> 00:00:03,06
+an experienced C# developer,
+
+3
+00:00:03,06 --> 00:00:04,05
+you might be wondering,
+
+4
+00:00:04,05 --> 00:00:07,03
+what's so special about Python and why learn it?
+
+5
+00:00:07,03 --> 00:00:10,01
+After all C# and .NET are pretty popular
+
+6
+00:00:10,01 --> 00:00:11,09
+and have been around for quite some time now,
+
+7
+00:00:11,09 --> 00:00:14,01
+so why bother learning a new language?
+
+8
+00:00:14,01 --> 00:00:16,08
+I think there's several great reasons to do so.
+
+9
+00:00:16,08 --> 00:00:21,00
+First Python programming is very productive and efficient,
+
+10
+00:00:21,00 --> 00:00:23,03
+especially if you're prototyping something
+
+11
+00:00:23,03 --> 00:00:25,09
+and you want to try out an idea quickly,
+
+12
+00:00:25,09 --> 00:00:28,00
+But that doesn't mean you can't do real work with it.
+
+13
+00:00:28,00 --> 00:00:31,00
+Python is very popular among some fields,
+
+14
+00:00:31,00 --> 00:00:33,07
+such as data science, financial modeling,
+
+15
+00:00:33,07 --> 00:00:37,06
+cloud software development, building command line tools,
+
+16
+00:00:37,06 --> 00:00:39,00
+and a lot more.
+
+17
+00:00:39,00 --> 00:00:41,01
+Python is also very flexible.
+
+18
+00:00:41,01 --> 00:00:43,02
+It supports object oriented programming,
+
+19
+00:00:43,02 --> 00:00:44,06
+so you can use it that way,
+
+20
+00:00:44,06 --> 00:00:46,05
+or you can just write procedural code
+
+21
+00:00:46,05 --> 00:00:48,04
+and not worry too much about using objects.
+
+22
+00:00:48,04 --> 00:00:49,07
+It's up to you.
+
+23
+00:00:49,07 --> 00:00:53,02
+There's a huge ecosystem built up around Python now.
+
+24
+00:00:53,02 --> 00:00:55,08
+There are 100s of pre-built code modules
+
+25
+00:00:55,08 --> 00:00:57,03
+that you can use in your projects,
+
+26
+00:00:57,03 --> 00:00:59,03
+both built into the standard library,
+
+27
+00:00:59,03 --> 00:01:02,06
+as well as available from third parties.
+
+28
+00:01:02,06 --> 00:01:04,05
+Python forms the foundation
+
+29
+00:01:04,05 --> 00:01:06,06
+of programming for some very popular products
+
+30
+00:01:06,06 --> 00:01:09,08
+like the Raspberry Pi or the Django web framework,
+
+31
+00:01:09,08 --> 00:01:11,00
+just to name a couple.
+
+32
+00:01:11,00 --> 00:01:13,04
+Python runs almost everywhere.
+
+33
+00:01:13,04 --> 00:01:16,00
+Just about every major operating system supports it,
+
+34
+00:01:16,00 --> 00:01:18,02
+such as Windows, Mac, and Linux.
+
+35
+00:01:18,02 --> 00:01:20,08
+So you can run your programs just about on any device
+
+36
+00:01:20,08 --> 00:01:22,05
+that has a processor.
+
+37
+00:01:22,05 --> 00:01:24,01
+All right, let's take a high-level look
+
+38
+00:01:24,01 --> 00:01:26,05
+at C# compared to Python.
+
+39
+00:01:26,05 --> 00:01:30,01
+So C# is a statically typed language
+
+40
+00:01:30,01 --> 00:01:31,08
+with some support for dynamic typing,
+
+41
+00:01:31,08 --> 00:01:35,03
+whereas Python is a dynamically typed language.
+
+42
+00:01:35,03 --> 00:01:38,06
+C# code is compiled and built into an app
+
+43
+00:01:38,06 --> 00:01:40,08
+before it is run.
+
+44
+00:01:40,08 --> 00:01:42,01
+Python doesn't have this step.
+
+45
+00:01:42,01 --> 00:01:45,00
+The code is just interpreted as it is executed.
+
+46
+00:01:45,00 --> 00:01:47,05
+This makes Python a little bit slower than C#,
+
+47
+00:01:47,05 --> 00:01:49,05
+but it makes the process of development
+
+48
+00:01:49,05 --> 00:01:51,04
+very quick and simple.
+
+49
+00:01:51,04 --> 00:01:54,00
+The C# language has grown over time
+
+50
+00:01:54,00 --> 00:01:56,06
+to be very rich and expressive.
+
+51
+00:01:56,06 --> 00:01:59,07
+There are all kinds of language constructs
+
+52
+00:01:59,07 --> 00:02:03,00
+to solve a wide variety of programming problems.
+
+53
+00:02:03,00 --> 00:02:06,00
+Python tends to focus more on simplicity
+
+54
+00:02:06,00 --> 00:02:08,07
+and doesn't have a lot of the bells and whistles
+
+55
+00:02:08,07 --> 00:02:11,04
+that languages like C# has.
+
+56
+00:02:11,04 --> 00:02:14,07
+Historically C# has been used by enterprise
+
+57
+00:02:14,07 --> 00:02:16,01
+and Azure developers
+
+58
+00:02:16,01 --> 00:02:17,05
+along with in-house development
+
+59
+00:02:17,05 --> 00:02:20,02
+for projects like Windows Forms.
+
+60
+00:02:20,02 --> 00:02:22,08
+Python has found acceptance among data scientists,
+
+61
+00:02:22,08 --> 00:02:26,03
+server side cloud developers, and hobbyists.
+
+62
+00:02:26,03 --> 00:02:27,07
+Now both languages of course
+
+63
+00:02:27,07 --> 00:02:30,01
+have large passionate user bases
+
+64
+00:02:30,01 --> 00:02:32,03
+and after spending some time with Python yourself,
+
+65
+00:02:32,03 --> 00:02:35,00
+you're probably going to understand why that is.
+
