@@ -92,7 +92,7 @@ async def login(username, password):
         await session.post(urljoin(URL, 'uas/login-submit'), proxy=PROXY, data=data, ssl=False)
 
         if not next((x.value for x in session.cookie_jar if x.key.lower() == 'li_at'), False):
-            pass#raise RuntimeError("[!] Could not login. Please check your credentials")
+            raise RuntimeError("[!] Could not login. Please check your credentials")
 
         HEADERS['Csrf-Token'] = next(x.value for x in session.cookie_jar if x.key.lower() == 'jsessionid')
         logging.info("[*] Login step 2 - Done")
